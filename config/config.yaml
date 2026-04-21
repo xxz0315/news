@@ -367,7 +367,7 @@ storage:
   # 数据格式选项
   formats:
     sqlite: true                      # 主存储（必须启用）
-    txt: false                        # 是否生成 TXT 快照
+    txt: true                        # 是否生成 TXT 快照
     html: true                       # 是否生成 HTML 报告（⚠️ 邮件推送或者需要看网页版报告必须设为 true）
 
   # 本地存储配置
@@ -395,7 +395,7 @@ storage:
   # 用于 MCP Server 等场景：爬虫存到远程，MCP 拉取到本地分析
   pull:
     enabled: false                    # 是否启用启动时自动拉取
-    days: 7                           # 拉取最近 N 天的数据
+    days: 14                          # 拉取最近 N 天的数据
 
 
 # ===============================================================
