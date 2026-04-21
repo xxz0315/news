@@ -238,7 +238,7 @@ presets:
       morning_briefing:
         name: "到岗速览"
         start: "07:00"
-        end: "8:00"
+        end: "08:00"
         analyze: true              # AI 分析当前热点
         ai_mode: "current"         # AI 分析当前榜单
         push: true                 # 到岗后看当前热点
