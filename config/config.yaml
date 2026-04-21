@@ -117,7 +117,7 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-      - id: "custom-feed"
+    - id: "custom-feed"
       name: "引力引擎"
       url: "https://rank.gravity-engine.com"
 
