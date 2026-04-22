@@ -67,7 +67,7 @@ platforms:
       name: "凤凰网"
     - id: "weibo"
       name: "微博"
-      - id: "cankaoxiaoxi"
+    - id: "cankaoxiaoxi"
       name: "参考消息"
     - id: "sputniknewscn"
       name: "卫星通讯社"
