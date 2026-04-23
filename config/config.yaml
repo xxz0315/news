@@ -69,8 +69,6 @@ platforms:
       name: "微博"
     - id: "cankaoxiaoxi"
       name: "参考消息"
-    - id: "sputniknewscn"
-      name: "卫星通讯社"
     - id: "zaobao"
       name: "联合早报"
     - id: "jin10"
